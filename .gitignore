@@ -1,0 +1,15 @@
+# .gitignore for CalcPythonHtml project
+# Ignore build folders
+build/
+
+# Ignore dist folders
+dist/
+
+# Ignore venv folders
+venv/
+
+# Ignore .spec files
+*.spec
+
+# Ignore .zip files
+*.zip
